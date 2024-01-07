@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   class="icon icon-tabler icon-tabler-hand-sanitizer"
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   stroke-width="2"
+   stroke="currentColor"
+   fill="none"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="icon.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   inkscape:export-filename="icon-128.png"
+   inkscape:export-xdpi="512"
+   inkscape:export-ydpi="512"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="33.541667"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <path
+     stroke="none"
+     d="M0 0h24v24H0z"
+     fill="none"
+     id="path1" />
+  <path
+     d="M7 21h10v-10a3 3 0 0 0 -3 -3h-4a3 3 0 0 0 -3 3v10z"
+     id="path2"
+     style="stroke:#57ba6a;stroke-opacity:1" />
+  <path
+     d="M15 3h-6a2 2 0 0 0 -2 2"
+     id="path3"
+     style="stroke:#57ba6a;stroke-opacity:1" />
+  <path
+     d="M12 3v5"
+     id="path4"
+     style="fill:#ff0000;stroke:#57ba6a;stroke-opacity:1" />
+  <path
+     d="m 8.6910554,15.532347 v -3.284332 a 1.5326886,1.5326886 0 0 1 3.0653776,0 v 3.284332"
+     id="path2-3"
+     style="stroke-width:0.875822;stroke:#57ba6a;stroke-opacity:1" />
+  <path
+     d="M 8.6910554,13.342792 H 11.756433"
+     id="path3-6"
+     style="stroke-width:0.875822;stroke:#57ba6a;stroke-opacity:1" />
+  <path
+     d="m 10.880611,16.846081 1.313733,1.313733 3.065378,-3.065378"
+     id="path4-7"
+     style="stroke-width:0.875822;stroke:#57ba6a;stroke-opacity:1" />
+</svg>
